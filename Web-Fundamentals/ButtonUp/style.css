@@ -1,0 +1,30 @@
+*{
+    margin: 20px;
+}
+.search{
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 20px;
+    padding: 2px 40px;
+    color: #53b5b6;
+    border: 1px solid #53b5b6;
+    display: block;
+}
+.add{
+    display: block;
+    color: #53b5b6;
+    border: 1px solid #53b5b6;
+    border-radius: 50%;
+    color: white;
+    background-color: #53b5b6;
+    font-size: larger;
+    font-weight: bolder;
+}
+.create{
+    display: block;
+    border: 2px solid black;
+    padding: 8px;
+    color: white;
+    background-color: blue;
+    box-shadow: 2px 2px 2px black;
+}

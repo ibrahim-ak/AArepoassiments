@@ -1,0 +1,23 @@
+.firstheader{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.firstheader span{
+    color: aqua;
+}
+.secondheader{
+    background-color: blueviolet;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    
+}
+
+
+.thirdheader{
+    background-color: deepskyblue;
+    padding: 10px;
+    text-decoration: underline;
+    text-align: end;
+}

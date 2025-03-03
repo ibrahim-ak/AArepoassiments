@@ -1,0 +1,21 @@
+.main {
+    margin: 60px auto;
+    width: 600px;
+    height: 350px;
+    border: 1px solid black;
+}
+
+.upper {
+    height: 100px;
+    background-color: rgb(66, 165, 185);
+}
+
+.upper img {
+    position: relative;
+    top: 60px;
+    left: 30px;
+
+}
+.lower {
+    padding: 15px;
+}
